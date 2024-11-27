@@ -6,7 +6,7 @@
   "dependencies": {
     "html-entities": "^1.2.1",
     "sleep": "^5.2.3",
-    "request": "^2.81.0",
+    "request": "^2.88.2",
     "sync-request": "^6.0.0"
   },
   "devDependencies": {},
